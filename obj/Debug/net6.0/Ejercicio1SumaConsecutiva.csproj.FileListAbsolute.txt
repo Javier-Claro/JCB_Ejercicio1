@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\bin\Debug\net6.0\Ejercicio1SumaConsecutiva.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\bin\Debug\net6.0\Ejercicio1SumaConsecutiva.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\bin\Debug\net6.0\Ejercicio1SumaConsecutiva.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\bin\Debug\net6.0\Ejercicio1SumaConsecutiva.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\bin\Debug\net6.0\Ejercicio1SumaConsecutiva.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\refint\Ejercicio1SumaConsecutiva.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\Ejercicio1SumaConsecutiva.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1SumaConsecutiva\obj\Debug\net6.0\ref\Ejercicio1SumaConsecutiva.dll
